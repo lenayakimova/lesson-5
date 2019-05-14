@@ -1,0 +1,19 @@
+body {
+	background: #F5F5F5;
+}
+
+h1, h3 {
+	text-align: center;
+	color: #F08080;
+	border: solid 1px red;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #CD5C5C;
+}
+
+.back {
+	font-weight: bold;
+}
